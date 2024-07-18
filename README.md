@@ -36,51 +36,10 @@ This Banking Application is designed to manage bank accounts for customers and p
 - **Database**: MySQL Server, MySQL Workbench
 - **Language**: Java
 
-## Project Structure
-Banking-Application/
-├── META-INF/
-├── WEB-INF/
-├── build/
-│ └── classes/
-├── java/
-├── jsp/
-│ ├── Acc_Delete.jsp
-│ ├── Acc_Modify.jsp
-│ ├── AdminDashboard.jsp
-│ ├── Admin_Profile.jsp
-│ ├── Adminlogout.jsp
-│ ├── Customer.jsp
-│ ├── Customer1.jsp
-│ ├── Customer_Dashboard.jsp
-│ ├── Customer_Deposit.jsp
-│ ├── Customer_New_Password.jsp
-│ ├── Customer_Profile.jsp
-│ ├── Customer_Session.jsp
-│ ├── Customer_View_Transactions.jsp
-│ ├── Customer_Withdraw.jsp
-│ ├── Depositmessage.jsp
-│ ├── NewFile.jsp
-│ ├── NewFile12.jsp
-│ ├── NewRegistration.jsp
-│ ├── Welcome.jsp
-│ ├── accountDeleted.jsp
-│ ├── debug.jsp
-│ ├── error.jsp
-│ ├── login.jsp
-│ ├── messagewithdraw.jsp
-│ ├── registration-success.jsp
-│ └── sessionCheck.jsp
-├── .classpath
-├── .project
-└── README.md
-
-bash
-Copy code
-
 ## Installation and Setup
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Banking-Application.git
+   git clone https://github.com/RajarajachozhanVK/Banking-Application---Genpact.git
 Import the Project in Eclipse:
 
 Open Eclipse IDE.
